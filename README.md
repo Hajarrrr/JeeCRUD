@@ -1,1 +1,1 @@
-# JeeCRUD
+# JeeCRUD Hibernate
